@@ -1,0 +1,6 @@
+applications:
+- name: govuk-replatforming-trello-graph
+  buildpacks:
+  - staticfile_buildpack
+  memory: 64M
+  path: build
